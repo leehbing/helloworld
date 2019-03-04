@@ -1,0 +1,14 @@
+*.iml
+.idea/
+.cache-main
+.cache-tests
+.classpath
+.gitignore.swp
+.project
+.settings/
+target/
+logs/
+conf.local/
+data/
+
+
