@@ -24,12 +24,12 @@
  * POSSIBILITY OF SUCH DAMAGE.
  */
 
-package org.codehaus.commons.compiler.samples;
-
-import java.util.Arrays;
+package com.janino.test.samples;
 
 import org.codehaus.commons.compiler.CompilerFactoryFactory;
 import org.codehaus.commons.compiler.IScriptEvaluator;
+
+import java.util.Arrays;
 
 /**
  * A test program that allows you to play around with the

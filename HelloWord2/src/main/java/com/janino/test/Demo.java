@@ -1,4 +1,4 @@
-package com.janino.test;
+package com.janino.test.samples;
 
 import org.codehaus.commons.compiler.IExpressionEvaluator;
 import org.codehaus.commons.compiler.IScriptEvaluator;

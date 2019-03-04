@@ -50,6 +50,6 @@
 
 /** Sample applications for the Janino Java<sup>TM</sup> compiler. */
 @NotNullByDefault
-package org.codehaus.commons.compiler.samples;
+package com.janino.test.samples;
 
 import org.codehaus.commons.nullanalysis.NotNullByDefault;

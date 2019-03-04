@@ -24,7 +24,7 @@
  * POSSIBILITY OF SUCH DAMAGE.
  */
 
-package org.codehaus.commons.compiler.samples;
+package com.janino.test.samples;
 
 import java.lang.reflect.InvocationTargetException;
 import java.util.ArrayList;
